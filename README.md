@@ -1,1 +1,1 @@
-# Segmentation-Models
+# Segmentation Models
