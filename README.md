@@ -9,4 +9,4 @@
 ## Notation
 Without images of dataset.
 
-Need to download from the website of CityScape, download 'gtFine'.
+Need to download from the website of CityScape, download "gtFine".
